@@ -1,0 +1,2 @@
+# mycms
+My simple cms.
